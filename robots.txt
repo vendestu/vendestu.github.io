@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vendestu.github.io/sitemap.vendestu.gz
+Sitemap: https://vendestu.github.io/app/sitemap.vendestu.gz
+Sitemap: https://vendestu.github.io/assets/sitemap.vendestu.gz
+Sitemap: https://vendestu.github.io/css/sitemap.vendestu.gz
+Sitemap: https://vendestu.github.io/data/sitemap.vendestu.gz
+Sitemap: https://vendestu.github.io/includes/sitemap.vendestu.gz
+Sitemap: https://vendestu.github.io/item/sitemap.vendestu.gz
+Sitemap: https://vendestu.github.io/src/sitemap.vendestu.gz
